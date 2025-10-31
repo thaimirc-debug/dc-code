@@ -34,7 +34,7 @@
                         <a
                             href="{{ route('login') }}"
                             class="btn btn-success"
-                        >
+                        
                             Log in
                         </a>
 
