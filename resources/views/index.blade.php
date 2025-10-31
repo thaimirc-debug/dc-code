@@ -60,8 +60,12 @@
         @endif
     </header>
     <div>
+        <p class="text-center mt-5">
+            <img src="{{ asset('tree.png') }}" alt="" width="250">
+        </p>
         <h1 class="text-center">
             ศูนย์สาธิตฯ บ้านป่าหวายนั่ง   
+            
         </h1>
         <p class="text-center">ขออภัยในความไม่สะดวก กำลังอยู่ในช่วงอัพเดทข้อมูล...</p>
     </div>
